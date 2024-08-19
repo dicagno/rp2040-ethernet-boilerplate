@@ -1,0 +1,3 @@
+[submodule "lib/aWOT"]
+	path = lib/aWOT
+	url = https://github.com/lasselukkari/aWOT.git
