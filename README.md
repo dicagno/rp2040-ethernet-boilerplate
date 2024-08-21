@@ -1,5 +1,9 @@
 # Template for RP2040 + Ethernet + REST API Hanlders
 
+Template for a REST API non-blocking WebServer app for Pico RP2040 and WizNet Ethernet modules (W5100, W5500)
+
+## Features
+
 This template features the follwing, with working sample code:
 
 * Ethernet driver for WizNet modules (tested W5100/W5500)
